@@ -1,0 +1,24 @@
+h1. operating_systems_exercises
+
+h2. Description
+
+Exercise solutions for the course "Betriebssysteme" of the Bachelor Computer
+Science study program at Hochschule Bonn-Rhein-Sieg in summer semester 2011.
+
+h2. License
+
+Copyright Alexander E. Fischer <aef@raxys.net>, 2011
+
+This collection is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This collection is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this collection.  If not, see <http://www.gnu.org/licenses/>.
+
