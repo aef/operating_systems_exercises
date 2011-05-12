@@ -1,3 +1,23 @@
+/*
+ * Collaborative work of:
+ *
+ * Alexander E. Fischer
+ * Axel Sorge
+ * Daniel Meißner
+ *
+ * Created: 11.5.2011
+ *
+ * Used system functions: sigaction, sigemptyset, fork, wait, sleep
+ * For more information see the corresponding Man Pages.
+ *
+ * This program is an example for using a signal handler to receive the return
+ * value from a terminated child process.
+ *
+ * No known limitations, implemented as described in exercise 3-3.
+ * Just compile and run from terminal.
+ *
+ */
+
 #include <sys/types.h>
 #include <unistd.h>
 #include <stdio.h>
